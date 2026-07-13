@@ -1,473 +1,448 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mxfile host="app.diagrams.net" agent="ChatGPT" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="product-lifecycle-one-sheet" name="Ciclo completo - una hoja">
-    <mxGraphModel dx="1800" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8700" pageHeight="2500" math="0" shadow="0" background="#ffffff">
+    <mxGraphModel dx="937" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8700" pageHeight="2500" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="CICLO DE VIDA DETALLADO DE UN PRODUCTO EN MONNRY" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0f172a;strokeColor=#0f172a;fontColor=#ffffff;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=24;" parent="1" vertex="1">
-          <mxGeometry x="0" y="0" width="8700" height="70" as="geometry" />
+        <mxCell id="title" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;spacingLeft=24;" value="CICLO DE VIDA DETALLADO DE UN PRODUCTO EN MONNRY" vertex="1">
+          <mxGeometry height="70" width="8700" as="geometry" />
         </mxCell>
-        <mxCell id="subtitle" value="Una sola hoja · Lectura principal de izquierda a derecha · El protagonista es un SKU/producto específico. Los documentos, áreas y sistemas aparecen como participantes del mismo ciclo." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#94a3b8;fontColor=#334155;fontSize=12;align=left;verticalAlign=middle;spacingLeft=16;" parent="1" vertex="1">
-          <mxGeometry x="0" y="70" width="8700" height="45" as="geometry" />
+        <mxCell id="subtitle" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#94a3b8;fontColor=#334155;fontSize=12;align=left;verticalAlign=middle;spacingLeft=16;" value="Una sola hoja · Lectura principal de izquierda a derecha · El protagonista es un SKU/producto específico. Los documentos, áreas y sistemas aparecen como participantes del mismo ciclo." vertex="1">
+          <mxGeometry height="45" width="8700" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="p1" value="1 · Selección comercial" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dbeafe;strokeColor=#2563eb;fontColor=#2563eb;" parent="1" vertex="1">
-          <mxGeometry x="180" y="115" width="1320" height="55" as="geometry" />
+        <mxCell id="p1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dbeafe;strokeColor=#2563eb;fontColor=#2563eb;" value="1 · Selección comercial" vertex="1">
+          <mxGeometry height="55" width="1320" x="180" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="p2" value="2 · Alta del producto y PO" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dcfce7;strokeColor=#16a34a;fontColor=#16a34a;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="115" width="1300" height="55" as="geometry" />
+        <mxCell id="p2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dcfce7;strokeColor=#16a34a;fontColor=#16a34a;" value="2 · Alta del producto y PO" vertex="1">
+          <mxGeometry height="55" width="1300" x="1500" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="p3" value="3 · Confirmación, ATS y envío" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#ffedd5;strokeColor=#ea580c;fontColor=#ea580c;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="115" width="1650" height="55" as="geometry" />
+        <mxCell id="p3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#ffedd5;strokeColor=#ea580c;fontColor=#ea580c;" value="3 · Confirmación, ATS y envío" vertex="1">
+          <mxGeometry height="55" width="1650" x="2800" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="p4" value="4 · Importación y traslado" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#ede9fe;strokeColor=#7c3aed;fontColor=#7c3aed;" parent="1" vertex="1">
-          <mxGeometry x="4450" y="115" width="1100" height="55" as="geometry" />
+        <mxCell id="p4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#ede9fe;strokeColor=#7c3aed;fontColor=#7c3aed;" value="4 · Importación y traslado" vertex="1">
+          <mxGeometry height="55" width="1100" x="4450" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="p5" value="5 · Recepción y activación" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#ccfbf1;strokeColor=#0f766e;fontColor=#0f766e;" parent="1" vertex="1">
-          <mxGeometry x="5550" y="115" width="1600" height="55" as="geometry" />
+        <mxCell id="p5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#ccfbf1;strokeColor=#0f766e;fontColor=#0f766e;" value="5 · Recepción y activación" vertex="1">
+          <mxGeometry height="55" width="1600" x="5550" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="p6" value="6 · Venta, posventa y reposición" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#f1f5f9;strokeColor=#64748b;fontColor=#64748b;" parent="1" vertex="1">
-          <mxGeometry x="7150" y="115" width="1450" height="55" as="geometry" />
+        <mxCell id="p6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;fillColor=#f1f5f9;strokeColor=#64748b;fontColor=#64748b;" value="6 · Venta, posventa y reposición" vertex="1">
+          <mxGeometry height="55" width="1450" x="7150" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="st1" value="Candidato / seleccionado" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#eff6ff;strokeColor=#2563eb;fontColor=#2563eb;" parent="1" vertex="1">
-          <mxGeometry x="220" y="180" width="250" height="50" as="geometry" />
+        <mxCell id="st1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#eff6ff;strokeColor=#2563eb;fontColor=#2563eb;" value="Candidato / seleccionado" vertex="1">
+          <mxGeometry height="50" width="250" x="220" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="st2" value="Identificado y ordenado" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f0fdf4;strokeColor=#16a34a;fontColor=#16a34a;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="180" width="260" height="50" as="geometry" />
+        <mxCell id="st2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f0fdf4;strokeColor=#16a34a;fontColor=#16a34a;" value="Identificado y ordenado" vertex="1">
+          <mxGeometry height="50" width="260" x="1540" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="st3" value="ATS aprobado · facturado · enviado" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#fff7ed;strokeColor=#ea580c;fontColor=#ea580c;" parent="1" vertex="1">
-          <mxGeometry x="2860" y="180" width="330" height="50" as="geometry" />
+        <mxCell id="st3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#fff7ed;strokeColor=#ea580c;fontColor=#ea580c;" value="ATS aprobado · facturado · enviado" vertex="1">
+          <mxGeometry height="50" width="330" x="2860" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="st4" value="En tránsito / importación" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f5f3ff;strokeColor=#7c3aed;fontColor=#7c3aed;" parent="1" vertex="1">
-          <mxGeometry x="4520" y="180" width="290" height="50" as="geometry" />
+        <mxCell id="st4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f5f3ff;strokeColor=#7c3aed;fontColor=#7c3aed;" value="En tránsito / importación" vertex="1">
+          <mxGeometry height="50" width="290" x="4520" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="st5" value="Recibido · conciliado · disponible" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f0fdfa;strokeColor=#0f766e;fontColor=#0f766e;" parent="1" vertex="1">
-          <mxGeometry x="5630" y="180" width="350" height="50" as="geometry" />
+        <mxCell id="st5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f0fdfa;strokeColor=#0f766e;fontColor=#0f766e;" value="Recibido · conciliado · disponible" vertex="1">
+          <mxGeometry height="50" width="350" x="5630" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="st6" value="Reservado · vendido · entregado / excepción" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f8fafc;strokeColor=#64748b;fontColor=#64748b;" parent="1" vertex="1">
-          <mxGeometry x="7220" y="180" width="390" height="50" as="geometry" />
+        <mxCell id="st6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;arcSize=12;fillColor=#f8fafc;strokeColor=#64748b;fontColor=#64748b;" value="Reservado · vendido · entregado / excepción" vertex="1">
+          <mxGeometry height="50" width="390" x="7220" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="state_e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" parent="1" source="st1" target="st2" edge="1">
+        <mxCell id="state_e1" edge="1" parent="1" source="st1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" target="st2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="state_e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" parent="1" source="st2" target="st3" edge="1">
+        <mxCell id="state_e2" edge="1" parent="1" source="st2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" target="st3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="state_e3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" parent="1" source="st3" target="st4" edge="1">
+        <mxCell id="state_e3" edge="1" parent="1" source="st3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" target="st4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="state_e4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" parent="1" source="st4" target="st5" edge="1">
+        <mxCell id="state_e4" edge="1" parent="1" source="st4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" target="st5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="state_e5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" parent="1" source="st5" target="st6" edge="1">
+        <mxCell id="state_e5" edge="1" parent="1" source="st5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#64748b;" target="st6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lane_g_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="250" width="8420" height="210" as="geometry" />
+        <mxCell id="lane_g" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="GERENCIA" vertex="1">
+          <mxGeometry height="210" width="180" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="lane_g" value="GERENCIA" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="250" width="180" height="210" as="geometry" />
+        <mxCell id="lane_o" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="OFICINAS / JOSSETTE" vertex="1">
+          <mxGeometry height="310" width="180" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="lane_o_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="460" width="8420" height="310" as="geometry" />
+        <mxCell id="lane_i" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="INVENTORY MODULE / SISTEMA" vertex="1">
+          <mxGeometry height="280" width="180" y="770" as="geometry" />
         </mxCell>
-        <mxCell id="lane_o" value="OFICINAS / JOSSETTE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="460" width="180" height="310" as="geometry" />
+        <mxCell id="lane_s" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="PROVEEDOR" vertex="1">
+          <mxGeometry height="250" width="180" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="lane_i_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="770" width="8420" height="280" as="geometry" />
+        <mxCell id="lane_f" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="FREIGHT FORWARDER / ADUANAS" vertex="1">
+          <mxGeometry height="230" width="180" y="1300" as="geometry" />
         </mxCell>
-        <mxCell id="lane_i" value="INVENTORY MODULE / SISTEMA" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="770" width="180" height="280" as="geometry" />
+        <mxCell id="lane_b" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="BODEGA / WINDWARD" vertex="1">
+          <mxGeometry height="300" width="180" y="1530" as="geometry" />
         </mxCell>
-        <mxCell id="lane_s_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1050" width="8420" height="250" as="geometry" />
+        <mxCell id="lane_v" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="SHOPIFY / VENTAS / POSVENTA" vertex="1">
+          <mxGeometry height="270" width="180" y="1830" as="geometry" />
         </mxCell>
-        <mxCell id="lane_s" value="PROVEEDOR" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="1050" width="180" height="250" as="geometry" />
+        <mxCell id="lane_x" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" value="EXCEPCIONES, RECLAMOS Y CICLOS DE RETORNO" vertex="1">
+          <mxGeometry height="280" width="180" y="2100" as="geometry" />
         </mxCell>
-        <mxCell id="lane_f_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1300" width="8420" height="230" as="geometry" />
+        <mxCell id="sep1" parent="1" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" value="" vertex="1">
+          <mxGeometry height="2130" width="2" x="1500" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="lane_f" value="FREIGHT FORWARDER / ADUANAS" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="1300" width="180" height="230" as="geometry" />
+        <mxCell id="sep2" parent="1" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" value="" vertex="1">
+          <mxGeometry height="2130" width="2" x="2800" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="lane_b_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1530" width="8420" height="300" as="geometry" />
+        <mxCell id="sep3" parent="1" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" value="" vertex="1">
+          <mxGeometry height="2130" width="2" x="4450" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="lane_b" value="BODEGA / WINDWARD" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="1530" width="180" height="300" as="geometry" />
+        <mxCell id="sep4" parent="1" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" value="" vertex="1">
+          <mxGeometry height="2130" width="2" x="5550" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="lane_v_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="1830" width="8420" height="270" as="geometry" />
+        <mxCell id="sep5" parent="1" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" value="" vertex="1">
+          <mxGeometry height="2130" width="2" x="7150" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="lane_v" value="SHOPIFY / VENTAS / POSVENTA" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="1830" width="180" height="270" as="geometry" />
+        <mxCell id="g1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;1. Explorar y seleccionar&lt;/b&gt;&lt;br&gt;Catálogo, sitio del proveedor o trade show.&lt;br&gt;Elegir productos potenciales." vertex="1">
+          <mxGeometry height="105" width="250" x="230" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="lane_x_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#e2e8f0;fillColor=#ffffff;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="180" y="2100" width="8420" height="280" as="geometry" />
+        <mxCell id="g2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;2. Armar carrito del proveedor&lt;/b&gt;&lt;br&gt;Agregar SKU/variante, color, tamaño y cantidad.&lt;br&gt;Conservar enlace o captura del carrito." vertex="1">
+          <mxGeometry height="120" width="300" x="520" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="lane_x" value="EXCEPCIONES, RECLAMOS Y CICLOS DE RETORNO" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#cbd5e1;fillColor=#f8fafc;fontColor=#334155;fontSize=13;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="0" y="2100" width="180" height="280" as="geometry" />
+        <mxCell id="g3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;3. Revisar carrito&lt;/b&gt;&lt;br&gt;Duplicados · sets completos · piezas · cantidades · disponibilidad visible · productos para tienda o pedido especial." vertex="1">
+          <mxGeometry height="130" width="330" x="860" y="295" as="geometry" />
         </mxCell>
-        <mxCell id="sep1" value="" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="250" width="2" height="2130" as="geometry" />
+        <mxCell id="o1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;4. Recibir carrito/lista de Gerencia&lt;/b&gt;&lt;br&gt;Convertir la selección en &lt;b&gt;D001 Product Selection Form&lt;/b&gt; y ordenar la información por proveedor.&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;1171&quot; data-end=&quot;1396&quot;&gt;&lt;td data-col-size=&quot;xl&quot; data-start=&quot;1207&quot; data-end=&quot;1396&quot;&gt;Formulario donde se registra la selección inicial de Gerencia: productos, códigos, variantes, acabados, tamaños y cantidades elegidas desde catálogo, carrito del proveedor o trade show.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;1397&quot; data-end=&quot;1542&quot;&gt;&lt;td data-start=&quot;1397&quot; data-end=&quot;1408&quot; data-col-size=&quot;sm&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="125" width="330" x="860" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="sep2" value="" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="2800" y="250" width="2" height="2130" as="geometry" />
+        <mxCell id="o2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;5. Solicitar PO e información&lt;/b&gt;&lt;br&gt;Enviar &lt;b&gt;D004 PO Request to Supplier&lt;/b&gt;.&lt;br&gt;Solicitar info para confirmar artículos, precios, cantidades, disponibilidad y datos del producto." vertex="1">
+          <mxGeometry height="115" width="330" x="860" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="sep3" value="" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="4450" y="250" width="2" height="2130" as="geometry" />
+        <mxCell id="s1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;6. Responder solicitud inicial&lt;/b&gt;&lt;br&gt;Acknowledgement / Sales Order / disponibilidad inicial.&lt;br&gt;&lt;b&gt;D006 Supplier PO Acknowledgement&lt;/b&gt;.&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;1743&quot; data-end=&quot;1930&quot;&gt;&lt;td data-start=&quot;1784&quot; data-end=&quot;1930&quot; data-col-size=&quot;xl&quot;&gt;Confirmación inicial del proveedor indicando que recibió la solicitud y mostrando cómo entiende la orden. Todavía puede requerir correcciones.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;1931&quot; data-end=&quot;2079&quot;&gt;&lt;td data-start=&quot;1931&quot; data-end=&quot;1942&quot; data-col-size=&quot;sm&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="330" x="860" y="1095" as="geometry" />
         </mxCell>
-        <mxCell id="sep4" value="" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="5550" y="250" width="2" height="2130" as="geometry" />
+        <mxCell id="o3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;7. Revisar respuesta del proveedor&lt;/b&gt;&lt;br&gt;Detectar cambios de precio, cantidades, sustituciones, mínimos, backorders o productos eliminados." vertex="1">
+          <mxGeometry height="120" width="260" x="1210" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="sep5" value="" style="rounded=0;html=1;fillColor=#cbd5e1;strokeColor=#cbd5e1;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="7150" y="250" width="2" height="2130" as="geometry" />
-        </mxCell>
-        <mxCell id="g1" value="&lt;b&gt;1. Explorar y seleccionar&lt;/b&gt;&lt;br&gt;Catálogo, sitio del proveedor o trade show.&lt;br&gt;Elegir productos potenciales." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="230" y="300" width="250" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="g2" value="&lt;b&gt;2. Armar carrito del proveedor&lt;/b&gt;&lt;br&gt;Agregar SKU/variante, color, tamaño y cantidad.&lt;br&gt;Conservar enlace o captura del carrito." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="520" y="300" width="300" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="g3" value="&lt;b&gt;3. Revisar carrito&lt;/b&gt;&lt;br&gt;Duplicados · sets completos · piezas · cantidades · disponibilidad visible · productos para tienda o pedido especial." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="860" y="295" width="330" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="o1" value="&lt;b&gt;4. Recibir carrito/lista de Gerencia&lt;/b&gt;&lt;br&gt;Convertir la selección en &lt;b&gt;D001 Product Selection Form&lt;/b&gt; y ordenar la información por proveedor." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="860" y="505" width="330" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="o2" value="&lt;b&gt;5. Solicitar PO e información&lt;/b&gt;&lt;br&gt;Enviar &lt;b&gt;D004 PO Request to Supplier&lt;/b&gt;.&lt;br&gt;Solicitar lista de precios, medidas, materiales, imágenes y condiciones." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="860" y="635" width="330" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="s1" value="&lt;b&gt;6. Responder solicitud inicial&lt;/b&gt;&lt;br&gt;Acknowledgement / Sales Order / disponibilidad inicial.&lt;br&gt;&lt;b&gt;D006 Supplier PO Acknowledgement&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="860" y="1095" width="330" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="o3" value="&lt;b&gt;7. Revisar respuesta del proveedor&lt;/b&gt;&lt;br&gt;Detectar cambios de precio, cantidades, sustituciones, mínimos, backorders o productos eliminados." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="520" width="260" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="e1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="g1" target="g2" edge="1">
+        <mxCell id="e1" edge="1" parent="1" source="g1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="g2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="g2" target="g3" edge="1">
+        <mxCell id="e2" edge="1" parent="1" source="g2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="g3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="g3" target="o1" edge="1">
+        <mxCell id="e3" edge="1" parent="1" source="g3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o1" target="o2" edge="1">
+        <mxCell id="e4" edge="1" parent="1" source="o1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o2" target="s1" edge="1">
+        <mxCell id="e5" edge="1" parent="1" source="o2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="s1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="s1" target="o3" edge="1">
+        <mxCell id="e6" edge="1" parent="1" source="s1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g4" value="&lt;b&gt;8. Aprobar cambios iniciales&lt;/b&gt;&lt;br&gt;Gerencia decide cantidades, sustituciones y alcance final de la compra." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="300" width="260" height="105" as="geometry" />
+        <mxCell id="g4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;8. Aprobar cambios iniciales&lt;/b&gt;&lt;br&gt;Gerencia decide cantidades, sustituciones y alcance final de la compra." vertex="1">
+          <mxGeometry height="105" width="260" x="1540" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="o4" value="&lt;b&gt;9. Estandarizar información&lt;/b&gt;&lt;br&gt;Preparar &lt;b&gt;D018 Standardized Product Info&lt;/b&gt; y limpiar códigos, descripciones y datos recibidos." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="505" width="280" height="110" as="geometry" />
+        <mxCell id="o4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;9. Estandarizar información&lt;/b&gt;&lt;br&gt;Preparar &lt;b&gt;D018 Standardized Product Info&lt;/b&gt; y limpiar códigos, descripciones y datos recibidos." vertex="1">
+          <mxGeometry height="110" width="280" x="1540" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="o5" value="&lt;b&gt;10. Crear PO en la app&lt;/b&gt;&lt;br&gt;Supplier · PO Number · Landed Base · fecha · notas.&lt;br&gt;Estado inicial: &lt;b&gt;draft&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="505" width="280" height="110" as="geometry" />
+        <mxCell id="o5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;10. Crear PO en la app&lt;/b&gt;&lt;br&gt;Supplier · PO Number · Landed Base · fecha · notas.&lt;br&gt;Estado inicial: &lt;b&gt;draft&lt;/b&gt;." vertex="1">
+          <mxGeometry height="110" width="280" x="1850" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="o6" value="&lt;b&gt;11. Ingresar líneas del PO&lt;/b&gt;&lt;br&gt;Manual · Excel · CSV · PDF/OCR · scraper por código del proveedor." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2160" y="505" width="280" height="105" as="geometry" />
+        <mxCell id="o6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;11. Ingresar líneas del PO&lt;/b&gt;&lt;br&gt;Manual · Excel · CSV · PDF/OCR · scraper por código del proveedor." vertex="1">
+          <mxGeometry height="105" width="280" x="2160" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="d_exist" value="¿Item Number&lt;br&gt;ya existe?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="2185" y="830" width="125" height="100" as="geometry" />
+        <mxCell id="d_exist" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="¿Item Number&lt;br&gt;ya existe?" vertex="1">
+          <mxGeometry height="100" width="125" x="2185" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="i_exist" value="&lt;b&gt;Reutilizar producto maestro&lt;/b&gt;&lt;br&gt;Cargar identidad e historial existente." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2350" y="785" width="220" height="90" as="geometry" />
+        <mxCell id="i_exist" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Reutilizar producto maestro&lt;/b&gt;&lt;br&gt;Cargar identidad e historial existente." vertex="1">
+          <mxGeometry height="90" width="220" x="2350" y="785" as="geometry" />
         </mxCell>
-        <mxCell id="i_new" value="&lt;b&gt;Crear producto provisional&lt;/b&gt;&lt;br&gt;Marcar origen = nuevo y completar identidad." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2350" y="920" width="220" height="95" as="geometry" />
+        <mxCell id="i_new" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Crear producto provisional&lt;/b&gt;&lt;br&gt;Marcar origen = nuevo y completar identidad." vertex="1">
+          <mxGeometry height="95" width="220" x="2350" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="i_class" value="&lt;b&gt;12. Clasificar y enriquecer&lt;/b&gt;&lt;br&gt;Supplier → Category → Description → SubCategory.&lt;br&gt;FacturaTica, campos dinámicos, materiales, medidas, color, marca, imágenes." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2600" y="790" width="175" height="220" as="geometry" />
+        <mxCell id="i_class" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;12. Clasificar y enriquecer&lt;/b&gt;&lt;br&gt;Supplier → Category → Description → SubCategory.&lt;br&gt;FacturaTica, campos dinámicos, materiales, medidas, color, marca, imágenes." vertex="1">
+          <mxGeometry height="220" width="175" x="2600" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="o7" value="&lt;b&gt;13. Completar compra específica&lt;/b&gt;&lt;br&gt;Wholesale/First/Special Cost · Discount · UoM · Pack Qty · Order/Invoiced/Shipped Qty · Invoice." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="630" width="280" height="115" as="geometry" />
+        <mxCell id="o7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;13. Completar compra específica&lt;/b&gt;&lt;br&gt;Wholesale/First/Special Cost · Discount · UoM · Pack Qty · Order/Invoiced/Shipped Qty · Invoice." vertex="1">
+          <mxGeometry height="115" width="280" x="2490" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="i_validate" value="&lt;b&gt;14. Validar línea&lt;/b&gt;&lt;br&gt;Item único · UPC como advertencia · obligatorios · cantidades · costos · clasificación completa." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="505" width="280" height="105" as="geometry" />
+        <mxCell id="i_validate" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;14. Validar línea&lt;/b&gt;&lt;br&gt;Item único · UPC como advertencia · obligatorios · cantidades · costos · clasificación completa." vertex="1">
+          <mxGeometry height="105" width="280" x="2490" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="e7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o3" target="g4" edge="1">
+        <mxCell id="e7" edge="1" parent="1" source="o3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="g4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="g4" target="o4" edge="1">
+        <mxCell id="e8" edge="1" parent="1" source="g4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o4" target="o5" edge="1">
+        <mxCell id="e9" edge="1" parent="1" source="o4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o5" target="o6" edge="1">
+        <mxCell id="e10" edge="1" parent="1" source="o5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o6" target="d_exist" edge="1">
+        <mxCell id="e11" edge="1" parent="1" source="o6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="d_exist" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e12" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="d_exist" target="i_exist" edge="1">
+        <mxCell id="e12" edge="1" parent="1" source="d_exist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_exist" value="Sí">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e13" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="d_exist" target="i_new" edge="1">
+        <mxCell id="e13" edge="1" parent="1" source="d_exist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_new" value="No">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="i_exist" target="i_class" edge="1">
+        <mxCell id="e14" edge="1" parent="1" source="i_exist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_class" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="i_new" target="i_class" edge="1">
+        <mxCell id="e15" edge="1" parent="1" source="i_new" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_class" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="i_class" target="o7" edge="1">
+        <mxCell id="e16" edge="1" parent="1" source="i_class" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o7" target="i_validate" edge="1">
+        <mxCell id="e17" edge="1" parent="1" source="o7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_validate" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g5" value="&lt;b&gt;15. Aprobar PO revisado&lt;/b&gt;&lt;br&gt;Gerencia valida la versión final antes de enviarla al proveedor." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="300" width="250" height="100" as="geometry" />
+        <mxCell id="g5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2563eb;fillColor=#dbeafe;fontColor=#172554;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;15. Aprobar PO revisado&lt;/b&gt;&lt;br&gt;Gerencia valida la versión final antes de enviarla al proveedor." vertex="1">
+          <mxGeometry height="100" width="250" x="2840" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="o8" value="&lt;b&gt;16. Enviar PO final&lt;/b&gt;&lt;br&gt;&lt;b&gt;D013 Approved Revised PO&lt;/b&gt; + parámetros de envío.&lt;br&gt;Solicitar reporte ATS." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="505" width="280" height="110" as="geometry" />
+        <mxCell id="o8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;16. Enviar PO final&lt;/b&gt;&lt;br&gt;&lt;b&gt;D013 Approved Revised PO&lt;/b&gt; + parámetros de envío.&lt;br&gt;Solicitar reporte ATS." vertex="1">
+          <mxGeometry height="110" width="280" x="2840" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="s2" value="&lt;b&gt;17. Confirmar cambios del PO&lt;/b&gt;&lt;br&gt;Proveedor acepta cantidades, productos y condiciones." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="1095" width="280" height="95" as="geometry" />
+        <mxCell id="s2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;17. Confirmar cambios del PO&lt;/b&gt;&lt;br&gt;Proveedor acepta cantidades, productos y condiciones." vertex="1">
+          <mxGeometry height="95" width="280" x="2840" y="1095" as="geometry" />
         </mxCell>
-        <mxCell id="s3" value="&lt;b&gt;18. Enviar ATS&lt;/b&gt;&lt;br&gt;&lt;b&gt;Available to Ship&lt;/b&gt;: disponibilidad real por SKU, set, piezas y cantidad.&lt;br&gt;&lt;b&gt;D021 ATS Report&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3150" y="1085" width="300" height="120" as="geometry" />
+        <mxCell id="s3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;18. Enviar ATS&lt;/b&gt;&lt;br&gt;&lt;b&gt;Available to Ship&lt;/b&gt;: disponibilidad real por SKU, set, piezas y cantidad.&lt;br&gt;&lt;b&gt;D021 ATS Report&lt;/b&gt;." vertex="1">
+          <mxGeometry height="120" width="300" x="3150" y="1085" as="geometry" />
         </mxCell>
-        <mxCell id="o9" value="&lt;b&gt;19. Revisar ATS por producto&lt;/b&gt;&lt;br&gt;Verificar sets completos, partes, cantidades, sustituciones y faltantes." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3150" y="505" width="300" height="110" as="geometry" />
+        <mxCell id="o9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;19. Revisar ATS por producto&lt;/b&gt;&lt;br&gt;Verificar sets completos, partes, cantidades, sustituciones y faltantes." vertex="1">
+          <mxGeometry height="110" width="300" x="3150" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="d_ats" value="¿Aprobar este producto&lt;br&gt;para viajar?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="3475" y="300" width="150" height="110" as="geometry" />
+        <mxCell id="d_ats" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="¿Aprobar este producto&lt;br&gt;para viajar?" vertex="1">
+          <mxGeometry height="110" width="150" x="3475" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="s4" value="&lt;b&gt;20. Confirmar selección final&lt;/b&gt;&lt;br&gt;&lt;b&gt;D025 Supplier ATS Confirmation&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3650" y="1085" width="270" height="95" as="geometry" />
+        <mxCell id="s4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;20. Confirmar selección final&lt;/b&gt;&lt;br&gt;&lt;b&gt;D025 Supplier ATS Confirmation&lt;/b&gt;." vertex="1">
+          <mxGeometry height="95" width="270" x="3650" y="1085" as="geometry" />
         </mxCell>
-        <mxCell id="o10" value="&lt;b&gt;21. Procesar pago&lt;/b&gt;&lt;br&gt;Tarjeta o transferencia.&lt;br&gt;&lt;b&gt;D026 / D029&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3650" y="500" width="270" height="95" as="geometry" />
+        <mxCell id="o10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;21. Procesar pago&lt;/b&gt;&lt;br&gt;Tarjeta o transferencia.&lt;br&gt;&lt;b&gt;D026 / D029&lt;/b&gt;." vertex="1">
+          <mxGeometry height="95" width="270" x="3650" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="o11" value="&lt;b&gt;22. Solicitar factura y manifiesto&lt;/b&gt;&lt;br&gt;Factura en Excel + shipped manifest.&lt;br&gt;&lt;b&gt;D028 / D030&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3950" y="500" width="280" height="105" as="geometry" />
+        <mxCell id="o11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;22. Solicitar factura y manifiesto&lt;/b&gt;&lt;br&gt;Factura en Excel + shipped manifest.&lt;br&gt;&lt;b&gt;D028 / D030&lt;/b&gt;." vertex="1">
+          <mxGeometry height="105" width="280" x="3950" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="s5" value="&lt;b&gt;23. Enviar factura y manifiesto&lt;/b&gt;&lt;br&gt;Lista facturada, confirmación de pago y mercancía despachada.&lt;br&gt;&lt;b&gt;D031 / D032&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3950" y="1085" width="300" height="120" as="geometry" />
+        <mxCell id="s5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ea580c;fillColor=#ffedd5;fontColor=#7c2d12;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;23. Enviar factura y manifiesto&lt;/b&gt;&lt;br&gt;Lista facturada, confirmación de pago y mercancía despachada.&lt;br&gt;&lt;b&gt;D031 / D032&lt;/b&gt;." vertex="1">
+          <mxGeometry height="120" width="300" x="3950" y="1085" as="geometry" />
         </mxCell>
-        <mxCell id="i_compare" value="&lt;b&gt;24. Comparar y actualizar la línea&lt;/b&gt;&lt;br&gt;ATS aprobado vs facturado (&lt;b&gt;D034&lt;/b&gt;) · facturado vs enviado (&lt;b&gt;D035&lt;/b&gt;).&lt;br&gt;Actualizar Invoiced Qty, Shipped Qty e Invoice Number." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="4140" y="790" width="270" height="205" as="geometry" />
+        <mxCell id="i_compare" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;24. Comparar y actualizar la línea&lt;/b&gt;&lt;br&gt;ATS aprobado vs facturado (&lt;b&gt;D034&lt;/b&gt;) · facturado vs enviado (&lt;b&gt;D035&lt;/b&gt;).&lt;br&gt;Actualizar Invoiced Qty, Shipped Qty e Invoice Number." vertex="1">
+          <mxGeometry height="205" width="270" x="4140" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="d_diff" value="¿Hay discrepancia?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="4290" y="670" width="120" height="90" as="geometry" />
+        <mxCell id="d_diff" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="¿Hay discrepancia?" vertex="1">
+          <mxGeometry height="90" width="120" x="4290" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="e18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="i_validate" target="g5" edge="1">
+        <mxCell id="e18" edge="1" parent="1" source="i_validate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="g5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="g5" target="o8" edge="1">
+        <mxCell id="e19" edge="1" parent="1" source="g5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o8" target="s2" edge="1">
+        <mxCell id="e20" edge="1" parent="1" source="o8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="s2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="s2" target="s3" edge="1">
+        <mxCell id="e21" edge="1" parent="1" source="s2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="s3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="s3" target="o9" edge="1">
+        <mxCell id="e22" edge="1" parent="1" source="s3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o9" target="d_ats" edge="1">
+        <mxCell id="e23" edge="1" parent="1" source="o9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="d_ats" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e24" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="d_ats" target="s4" edge="1">
+        <mxCell id="e24" edge="1" parent="1" source="d_ats" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="s4" value="Sí">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="s4" target="o10" edge="1">
+        <mxCell id="e25" edge="1" parent="1" source="s4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o10" target="o11" edge="1">
+        <mxCell id="e26" edge="1" parent="1" source="o10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o11" target="s5" edge="1">
+        <mxCell id="e27" edge="1" parent="1" source="o11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="s5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="s5" target="i_compare" edge="1">
+        <mxCell id="e28" edge="1" parent="1" source="s5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_compare" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="i_compare" target="d_diff" edge="1">
+        <mxCell id="e29" edge="1" parent="1" source="i_compare" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="d_diff" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f1" value="&lt;b&gt;25. Recibir en almacén USA&lt;/b&gt;&lt;br&gt;Crear &lt;b&gt;D037 Warehouse Receipt&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7c3aed;fillColor=#ede9fe;fontColor=#4c1d95;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="4490" y="1350" width="260" height="95" as="geometry" />
+        <mxCell id="f1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7c3aed;fillColor=#ede9fe;fontColor=#4c1d95;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;25. Recibir en almacén USA&lt;/b&gt;&lt;br&gt;Crear &lt;b&gt;D037 Warehouse Receipt&lt;/b&gt;." vertex="1">
+          <mxGeometry height="95" width="260" x="4490" y="1350" as="geometry" />
         </mxCell>
-        <mxCell id="o12" value="&lt;b&gt;26. Comparar manifiesto vs receipt&lt;/b&gt;&lt;br&gt;Identificar bultos, unidades faltantes o sobrantes.&lt;br&gt;&lt;b&gt;D038 / D039&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="4490" y="505" width="280" height="110" as="geometry" />
+        <mxCell id="o12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;26. Comparar manifiesto vs receipt&lt;/b&gt;&lt;br&gt;Identificar bultos, unidades faltantes o sobrantes.&lt;br&gt;&lt;b&gt;D038 / D039&lt;/b&gt;." vertex="1">
+          <mxGeometry height="110" width="280" x="4490" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="o13" value="&lt;b&gt;27. Preparar importación&lt;/b&gt;&lt;br&gt;Lista aprobada para FF, resumen de oficina y resumen para bodega.&lt;br&gt;&lt;b&gt;D041 / D043 / D044&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="4800" y="505" width="290" height="120" as="geometry" />
+        <mxCell id="o13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;27. Preparar importación&lt;/b&gt;&lt;br&gt;Lista aprobada para FF, resumen de oficina y resumen para bodega.&lt;br&gt;&lt;b&gt;D041 / D043 / D044&lt;/b&gt;." vertex="1">
+          <mxGeometry height="120" width="290" x="4800" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="f2" value="&lt;b&gt;28. Importar a Costa Rica&lt;/b&gt;&lt;br&gt;Consolidación, transporte, aduanas e impuestos.&lt;br&gt;&lt;b&gt;D046 / D047&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7c3aed;fillColor=#ede9fe;fontColor=#4c1d95;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="4800" y="1340" width="290" height="110" as="geometry" />
+        <mxCell id="f2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7c3aed;fillColor=#ede9fe;fontColor=#4c1d95;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;28. Importar a Costa Rica&lt;/b&gt;&lt;br&gt;Consolidación, transporte, aduanas e impuestos.&lt;br&gt;&lt;b&gt;D046 / D047&lt;/b&gt;." vertex="1">
+          <mxGeometry height="110" width="290" x="4800" y="1340" as="geometry" />
         </mxCell>
-        <mxCell id="f3" value="&lt;b&gt;29. Trasladar a Monnry&lt;/b&gt;&lt;br&gt;Coordinar despacho local.&lt;br&gt;&lt;b&gt;D048 Boleta de Despacho&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7c3aed;fillColor=#ede9fe;fontColor=#4c1d95;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="5120" y="1345" width="270" height="100" as="geometry" />
+        <mxCell id="f3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#7c3aed;fillColor=#ede9fe;fontColor=#4c1d95;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;29. Trasladar a Monnry&lt;/b&gt;&lt;br&gt;Coordinar despacho local.&lt;br&gt;&lt;b&gt;D048 Boleta de Despacho&lt;/b&gt;." vertex="1">
+          <mxGeometry height="100" width="270" x="5120" y="1345" as="geometry" />
         </mxCell>
-        <mxCell id="b1" value="&lt;b&gt;30. Recibir físicamente en Monnry&lt;/b&gt;&lt;br&gt;Verificar bultos y condición general al descargar." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="5120" y="1585" width="270" height="105" as="geometry" />
+        <mxCell id="b1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;30. Recibir físicamente en Monnry&lt;/b&gt;&lt;br&gt;Verificar bultos y condición general al descargar." vertex="1">
+          <mxGeometry height="105" width="270" x="5120" y="1585" as="geometry" />
         </mxCell>
-        <mxCell id="e30" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="d_diff" target="f1" edge="1">
+        <mxCell id="e30" edge="1" parent="1" source="d_diff" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="f1" value="No">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="f1" target="o12" edge="1">
+        <mxCell id="e31" edge="1" parent="1" source="f1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o12" target="o13" edge="1">
+        <mxCell id="e32" edge="1" parent="1" source="o12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o13" target="f2" edge="1">
+        <mxCell id="e33" edge="1" parent="1" source="o13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="f2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="f2" target="f3" edge="1">
+        <mxCell id="e34" edge="1" parent="1" source="f2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="f3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="f3" target="b1" edge="1">
+        <mxCell id="e35" edge="1" parent="1" source="f3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b2" value="&lt;b&gt;31. Clasificar unidades&lt;/b&gt;&lt;br&gt;Tienda · special order · repuestos/RMA · producto con daño visible." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="5580" y="1580" width="270" height="110" as="geometry" />
+        <mxCell id="b2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;31. Clasificar unidades&lt;/b&gt;&lt;br&gt;Tienda · special order · repuestos/RMA · producto con daño visible." vertex="1">
+          <mxGeometry height="110" width="270" x="5580" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="b3" value="&lt;b&gt;32. Primer inventario&lt;/b&gt;&lt;br&gt;Contar por SKU y registrar condición inicial." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="5880" y="1580" width="250" height="95" as="geometry" />
+        <mxCell id="b3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;32. Primer inventario&lt;/b&gt;&lt;br&gt;Contar por SKU y registrar condición inicial." vertex="1">
+          <mxGeometry height="95" width="250" x="5880" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="o14" value="&lt;b&gt;33. Cargar gastos reales&lt;/b&gt;&lt;br&gt;Freight US · Ocean Freight · impuestos · extras · nacionalización · almacenaje · Flete CR." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="5880" y="500" width="300" height="120" as="geometry" />
+        <mxCell id="o14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;33. Cargar gastos reales&lt;/b&gt;&lt;br&gt;Freight US · Ocean Freight · impuestos · extras · nacionalización · almacenaje · Flete CR." vertex="1">
+          <mxGeometry height="120" width="300" x="5880" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="i_cost" value="&lt;b&gt;34. Distribuir gastos y calcular costo&lt;/b&gt;&lt;br&gt;Por factura y proporcionalmente por línea.&lt;br&gt;Landed Cost / Real Landed Cost." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6210" y="790" width="280" height="130" as="geometry" />
+        <mxCell id="i_cost" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;34. Distribuir gastos y calcular costo&lt;/b&gt;&lt;br&gt;Por factura y proporcionalmente por línea.&lt;br&gt;Landed Cost / Real Landed Cost." vertex="1">
+          <mxGeometry height="130" width="280" x="6210" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="b4" value="&lt;b&gt;35. Recibir/actualizar en Windward&lt;/b&gt;&lt;br&gt;Producto, cantidades, costos, categoría, ubicación y barcode." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6210" y="1580" width="280" height="105" as="geometry" />
+        <mxCell id="b4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;35. Recibir/actualizar en Windward&lt;/b&gt;&lt;br&gt;Producto, cantidades, costos, categoría, ubicación y barcode." vertex="1">
+          <mxGeometry height="105" width="280" x="6210" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="b5" value="&lt;b&gt;36. Confirmar precio y etiquetas&lt;/b&gt;&lt;br&gt;Margen · IVA · redondeo · Previous Retail · Online Price.&lt;br&gt;Imprimir y colocar etiquetas." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6520" y="1575" width="290" height="120" as="geometry" />
+        <mxCell id="b5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;36. Confirmar precio y etiquetas&lt;/b&gt;&lt;br&gt;Margen · IVA · redondeo · Previous Retail · Online Price.&lt;br&gt;Imprimir y colocar etiquetas." vertex="1">
+          <mxGeometry height="120" width="290" x="6520" y="1575" as="geometry" />
         </mxCell>
-        <mxCell id="b6" value="&lt;b&gt;37. Segundo inventario&lt;/b&gt;&lt;br&gt;Recontar después de recepción, etiquetado y acomodo." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6840" y="1580" width="260" height="100" as="geometry" />
+        <mxCell id="b6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;37. Segundo inventario&lt;/b&gt;&lt;br&gt;Recontar después de recepción, etiquetado y acomodo." vertex="1">
+          <mxGeometry height="100" width="260" x="6840" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="d_count" value="¿Shipped = 1.er inventario&lt;br&gt;= 2.º inventario&lt;br&gt;= recepción Windward?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="6890" y="1390" width="170" height="130" as="geometry" />
+        <mxCell id="d_count" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="¿Shipped = 1.er inventario&lt;br&gt;= 2.º inventario&lt;br&gt;= recepción Windward?" vertex="1">
+          <mxGeometry height="130" width="170" x="6890" y="1390" as="geometry" />
         </mxCell>
-        <mxCell id="b7" value="&lt;b&gt;38. Ubicar y liberar&lt;/b&gt;&lt;br&gt;Piso · bodega · reservado/special order.&lt;br&gt;La unidad queda operativa." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6870" y="1695" width="230" height="105" as="geometry" />
+        <mxCell id="b7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;38. Ubicar y liberar&lt;/b&gt;&lt;br&gt;Piso · bodega · reservado/special order.&lt;br&gt;La unidad queda operativa." vertex="1">
+          <mxGeometry height="105" width="230" x="6870" y="1695" as="geometry" />
         </mxCell>
-        <mxCell id="i_sync" value="&lt;b&gt;39. Consolidar maestro y stock&lt;/b&gt;&lt;br&gt;Actualizar Inventory Module con producto, cantidades, costos y referencias Windward." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6820" y="790" width="280" height="120" as="geometry" />
+        <mxCell id="i_sync" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;39. Consolidar maestro y stock&lt;/b&gt;&lt;br&gt;Actualizar Inventory Module con producto, cantidades, costos y referencias Windward." vertex="1">
+          <mxGeometry height="120" width="280" x="6820" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="v1" value="&lt;b&gt;40. Crear o actualizar Shopify&lt;/b&gt;&lt;br&gt;Handle · SKU · title · price · barcode · inventory · imágenes · tags · metafields · familias/tamaños." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6820" y="1865" width="280" height="150" as="geometry" />
+        <mxCell id="v1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;40. Crear o actualizar Shopify&lt;/b&gt;&lt;br&gt;Handle · SKU · title · price · barcode · inventory · imágenes · tags · metafields · familias/tamaños." vertex="1">
+          <mxGeometry height="150" width="280" x="6820" y="1865" as="geometry" />
         </mxCell>
-        <mxCell id="e36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b1" target="b2" edge="1">
+        <mxCell id="e36" edge="1" parent="1" source="b1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b2" target="b3" edge="1">
+        <mxCell id="e37" edge="1" parent="1" source="b2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b3" target="o14" edge="1">
+        <mxCell id="e38" edge="1" parent="1" source="b3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="o14" target="i_cost" edge="1">
+        <mxCell id="e39" edge="1" parent="1" source="o14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_cost" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="i_cost" target="b4" edge="1">
+        <mxCell id="e40" edge="1" parent="1" source="i_cost" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b4" target="b5" edge="1">
+        <mxCell id="e41" edge="1" parent="1" source="b4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b5" target="b6" edge="1">
+        <mxCell id="e42" edge="1" parent="1" source="b5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b6" target="d_count" edge="1">
+        <mxCell id="e43" edge="1" parent="1" source="b6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="d_count" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e44" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="d_count" target="b7" edge="1">
+        <mxCell id="e44" edge="1" parent="1" source="d_count" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b7" value="Sí">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b7" target="i_sync" edge="1">
+        <mxCell id="e45" edge="1" parent="1" source="b7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="i_sync" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="i_sync" target="v1" edge="1">
+        <mxCell id="e46" edge="1" parent="1" source="i_sync" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="v1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v2" value="&lt;b&gt;41. Producto disponible para demanda&lt;/b&gt;&lt;br&gt;POS · Shopify · cotización · layaway · special order." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7200" y="1860" width="280" height="110" as="geometry" />
+        <mxCell id="v2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;41. Producto disponible para demanda&lt;/b&gt;&lt;br&gt;POS · Shopify · cotización · layaway · special order." vertex="1">
+          <mxGeometry height="110" width="280" x="7200" y="1860" as="geometry" />
         </mxCell>
-        <mxCell id="v3" value="&lt;b&gt;42. Reservar y documentar&lt;/b&gt;&lt;br&gt;Factura, web order, pick slip o reserva.&lt;br&gt;Separar la unidad física." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7510" y="1860" width="280" height="110" as="geometry" />
+        <mxCell id="v3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;42. Reservar y documentar&lt;/b&gt;&lt;br&gt;Factura, web order, pick slip o reserva.&lt;br&gt;Separar la unidad física." vertex="1">
+          <mxGeometry height="110" width="280" x="7510" y="1860" as="geometry" />
         </mxCell>
-        <mxCell id="b8" value="&lt;b&gt;43. Preparar retiro o transporte&lt;/b&gt;&lt;br&gt;Localizar, inspeccionar, empacar y entregar a cliente/transportista." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7510" y="1580" width="280" height="110" as="geometry" />
+        <mxCell id="b8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;43. Preparar retiro o transporte&lt;/b&gt;&lt;br&gt;Localizar, inspeccionar, empacar y entregar a cliente/transportista." vertex="1">
+          <mxGeometry height="110" width="280" x="7510" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="b9" value="&lt;b&gt;44. Registrar movimiento&lt;/b&gt;&lt;br&gt;Windward descuenta/reclasifica stock y conserva el movimiento." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7820" y="1580" width="270" height="100" as="geometry" />
+        <mxCell id="b9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0f766e;fillColor=#ccfbf1;fontColor=#134e4a;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;44. Registrar movimiento&lt;/b&gt;&lt;br&gt;Windward descuenta/reclasifica stock y conserva el movimiento." vertex="1">
+          <mxGeometry height="100" width="270" x="7820" y="1580" as="geometry" />
         </mxCell>
-        <mxCell id="v4" value="&lt;b&gt;45. Confirmar entrega&lt;/b&gt;&lt;br&gt;La unidad sale físicamente de Monnry y se actualiza el stock ecommerce." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7820" y="1860" width="270" height="105" as="geometry" />
+        <mxCell id="v4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#f1f5f9;fontColor=#334155;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;45. Confirmar entrega&lt;/b&gt;&lt;br&gt;La unidad sale físicamente de Monnry y se actualiza el stock ecommerce." vertex="1">
+          <mxGeometry height="105" width="270" x="7820" y="1860" as="geometry" />
         </mxCell>
-        <mxCell id="d_after" value="¿Devolución, daño&lt;br&gt;o garantía?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="8120" y="1870" width="140" height="105" as="geometry" />
+        <mxCell id="d_after" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#a16207;fillColor=#fef3c7;fontColor=#713f12;fontSize=11;fontStyle=1;align=center;verticalAlign=middle;spacing=5;" value="¿Devolución, daño&lt;br&gt;o garantía?" vertex="1">
+          <mxGeometry height="105" width="140" x="8120" y="1870" as="geometry" />
         </mxCell>
-        <mxCell id="end_ok" value="Unidad vendida y entregada&lt;br&gt;sin incidencia" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#166534;fillColor=#bbf7d0;fontColor=#14532d;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="8330" y="1865" width="220" height="105" as="geometry" />
+        <mxCell id="end_ok" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#166534;fillColor=#bbf7d0;fontColor=#14532d;fontSize=12;fontStyle=1;align=center;verticalAlign=middle;" value="Unidad vendida y entregada&lt;br&gt;sin incidencia" vertex="1">
+          <mxGeometry height="105" width="220" x="8330" y="1865" as="geometry" />
         </mxCell>
-        <mxCell id="e47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="v1" target="v2" edge="1">
+        <mxCell id="e47" edge="1" parent="1" source="v1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="v2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="v2" target="v3" edge="1">
+        <mxCell id="e48" edge="1" parent="1" source="v2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="v3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="v3" target="b8" edge="1">
+        <mxCell id="e49" edge="1" parent="1" source="v3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b8" target="b9" edge="1">
+        <mxCell id="e50" edge="1" parent="1" source="b8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="b9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="b9" target="v4" edge="1">
+        <mxCell id="e51" edge="1" parent="1" source="b9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="v4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="v4" target="d_after" edge="1">
+        <mxCell id="e52" edge="1" parent="1" source="v4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="d_after" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e53" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" parent="1" source="d_after" target="end_ok" edge="1">
+        <mxCell id="e53" edge="1" parent="1" source="d_after" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="end_ok" value="No">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x_ats" value="&lt;b&gt;ATS no aprobado&lt;/b&gt;&lt;br&gt;Reducir cantidad, excluir del embarque o dejar pendiente/backorder.&lt;br&gt;La línea conserva historial." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="3150" y="2150" width="310" height="120" as="geometry" />
+        <mxCell id="x_ats" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;ATS no aprobado&lt;/b&gt;&lt;br&gt;Reducir cantidad, excluir del embarque o dejar pendiente/backorder.&lt;br&gt;La línea conserva historial." vertex="1">
+          <mxGeometry height="120" width="310" x="3150" y="2150" as="geometry" />
         </mxCell>
-        <mxCell id="x_diff" value="&lt;b&gt;Discrepancia documental&lt;/b&gt;&lt;br&gt;Registrar diferencia, avisar a Gerencia y dejar nota para validación física al recibir." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="4050" y="2150" width="310" height="120" as="geometry" />
+        <mxCell id="x_diff" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Discrepancia documental&lt;/b&gt;&lt;br&gt;Registrar diferencia, avisar a Gerencia y dejar nota para validación física al recibir." vertex="1">
+          <mxGeometry height="120" width="310" x="4050" y="2150" as="geometry" />
         </mxCell>
-        <mxCell id="x_count" value="&lt;b&gt;Diferencia física&lt;/b&gt;&lt;br&gt;Reconteo · investigación · ajuste Windward · reclamo por faltante/daño.&lt;br&gt;&lt;b&gt;D056 / D057&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="6480" y="2140" width="340" height="135" as="geometry" />
+        <mxCell id="x_count" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Diferencia física&lt;/b&gt;&lt;br&gt;Reconteo · investigación · ajuste Windward · reclamo por faltante/daño.&lt;br&gt;&lt;b&gt;D056 / D057&lt;/b&gt;." vertex="1">
+          <mxGeometry height="135" width="340" x="6480" y="2140" as="geometry" />
         </mxCell>
-        <mxCell id="x_return" value="&lt;b&gt;Devolución vendible&lt;/b&gt;&lt;br&gt;Inspeccionar, reetiquetar, reubicar y reingresar stock." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7200" y="2145" width="270" height="120" as="geometry" />
+        <mxCell id="x_return" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Devolución vendible&lt;/b&gt;&lt;br&gt;Inspeccionar, reetiquetar, reubicar y reingresar stock." vertex="1">
+          <mxGeometry height="120" width="270" x="7200" y="2145" as="geometry" />
         </mxCell>
-        <mxCell id="x_repair" value="&lt;b&gt;Reparación / RMA / garantía&lt;/b&gt;&lt;br&gt;Reparar internamente o solicitar pieza, reemplazo o crédito al proveedor." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7500" y="2140" width="300" height="130" as="geometry" />
+        <mxCell id="x_repair" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Reparación / RMA / garantía&lt;/b&gt;&lt;br&gt;Reparar internamente o solicitar pieza, reemplazo o crédito al proveedor." vertex="1">
+          <mxGeometry height="130" width="300" x="7500" y="2140" as="geometry" />
         </mxCell>
-        <mxCell id="x_mch" value="&lt;b&gt;Venta con daño&lt;/b&gt;&lt;br&gt;Marcar &lt;b&gt;mch&lt;/b&gt;, ajustar precio y comunicar condición en Shopify." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="7830" y="2145" width="270" height="120" as="geometry" />
+        <mxCell id="x_mch" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Venta con daño&lt;/b&gt;&lt;br&gt;Marcar &lt;b&gt;mch&lt;/b&gt;, ajustar precio y comunicar condición en Shopify." vertex="1">
+          <mxGeometry height="120" width="270" x="7830" y="2145" as="geometry" />
         </mxCell>
-        <mxCell id="x_low" value="&lt;b&gt;Baja definitiva&lt;/b&gt;&lt;br&gt;Donar, desechar o inactivar. Ajustar stock y conservar trazabilidad." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="8100" y="2145" width="230" height="120" as="geometry" />
+        <mxCell id="x_low" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;Baja definitiva&lt;/b&gt;&lt;br&gt;Donar, desechar o inactivar. Ajustar stock y conservar trazabilidad." vertex="1">
+          <mxGeometry height="120" width="230" x="8100" y="2145" as="geometry" />
         </mxCell>
-        <mxCell id="x_restock" value="&lt;b&gt;¿Reponer el producto?&lt;/b&gt;&lt;br&gt;Reutilizar el mismo producto maestro y crear una nueva línea en otro PO." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="8400" y="2140" width="270" height="130" as="geometry" />
+        <mxCell id="x_restock" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#dc2626;fillColor=#fee2e2;fontColor=#7f1d1d;fontSize=11;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;¿Reponer el producto?&lt;/b&gt;&lt;br&gt;Reutilizar el mismo producto maestro y crear una nueva línea en otro PO." vertex="1">
+          <mxGeometry height="130" width="270" x="8400" y="2140" as="geometry" />
         </mxCell>
-        <mxCell id="ex1" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" parent="1" source="d_ats" target="x_ats" edge="1">
+        <mxCell id="ex1" edge="1" parent="1" source="d_ats" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" target="x_ats" value="No">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3550" y="2050" />
@@ -475,7 +450,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex2" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" parent="1" source="d_diff" target="x_diff" edge="1">
+        <mxCell id="ex2" edge="1" parent="1" source="d_diff" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" target="x_diff" value="Sí">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4350" y="2050" />
@@ -483,7 +458,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" parent="1" source="d_count" target="x_count" edge="1">
+        <mxCell id="ex3" edge="1" parent="1" source="d_count" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" target="x_count" value="No">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="6970" y="2080" />
@@ -491,7 +466,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex4" value="Sí: vendible" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" parent="1" source="d_after" target="x_return" edge="1">
+        <mxCell id="ex4" edge="1" parent="1" source="d_after" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" target="x_return" value="Sí: vendible">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8190" y="2080" />
@@ -499,7 +474,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex5" value="Reparable / garantía" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" parent="1" source="d_after" target="x_repair" edge="1">
+        <mxCell id="ex5" edge="1" parent="1" source="d_after" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" target="x_repair" value="Reparable / garantía">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8190" y="2090" />
@@ -507,7 +482,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex6" value="Vender con daño" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" parent="1" source="d_after" target="x_mch" edge="1">
+        <mxCell id="ex6" edge="1" parent="1" source="d_after" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" target="x_mch" value="Vender con daño">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8190" y="2100" />
@@ -515,7 +490,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex7" value="No recuperable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" parent="1" source="d_after" target="x_low" edge="1">
+        <mxCell id="ex7" edge="1" parent="1" source="d_after" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#dc2626;fontColor=#991b1b;labelBackgroundColor=#ffffff;" target="x_low" value="No recuperable">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8190" y="2110" />
@@ -523,7 +498,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex8" value="Stock bajo / nueva demanda" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#64748b;fontColor=#334155;labelBackgroundColor=#ffffff;" parent="1" source="end_ok" target="x_restock" edge="1">
+        <mxCell id="ex8" edge="1" parent="1" source="end_ok" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#64748b;fontColor=#334155;labelBackgroundColor=#ffffff;" target="x_restock" value="Stock bajo / nueva demanda">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8440" y="2080" />
@@ -531,13 +506,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ex9" value="Después de reingreso" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1;dashed=1;strokeColor=#64748b;" parent="1" source="x_return" target="x_restock" edge="1">
+        <mxCell id="ex9" edge="1" parent="1" source="x_return" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1;dashed=1;strokeColor=#64748b;" target="x_restock" value="Después de reingreso">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ex10" value="Después de resolver" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1;dashed=1;strokeColor=#64748b;" parent="1" source="x_repair" target="x_restock" edge="1">
+        <mxCell id="ex10" edge="1" parent="1" source="x_repair" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1;dashed=1;strokeColor=#64748b;" target="x_restock" value="Después de resolver">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loop_restock" value="Sí: nuevo PO con el mismo producto maestro" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;dashed=1;strokeColor=#475569;fontColor=#334155;labelBackgroundColor=#ffffff;" parent="1" source="x_restock" target="o5" edge="1">
+        <mxCell id="loop_restock" edge="1" parent="1" source="x_restock" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;dashed=1;strokeColor=#475569;fontColor=#334155;labelBackgroundColor=#ffffff;" target="o5" value="Sí: nuevo PO con el mismo producto maestro">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="8530" y="2420" />
@@ -545,15 +520,6 @@
               <mxPoint x="1990" y="770" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="note_model" value="&lt;b&gt;Modelo de datos&lt;/b&gt;&lt;br&gt;Producto maestro = identidad persistente.&lt;br&gt;Línea de PO = una compra específica.&lt;br&gt;Unidad física = pieza que se mueve, vende, devuelve o da de baja." style="shape=note;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#fff7ed;fontColor=#7c2d12;fontSize=11;align=left;verticalAlign=top;spacing=8;size=15;" parent="1" vertex="1">
-          <mxGeometry x="190" y="2150" width="420" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="note_truth" value="&lt;b&gt;Fuentes de verdad&lt;/b&gt;&lt;br&gt;Inventory Module: creación, clasificación y preparación.&lt;br&gt;Windward: stock, ubicación y movimientos.&lt;br&gt;Shopify: proyección ecommerce." style="shape=note;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#fff7ed;fontColor=#7c2d12;fontSize=11;align=left;verticalAlign=top;spacing=8;size=15;" parent="1" vertex="1">
-          <mxGeometry x="620" y="2150" width="420" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="note_incoming" value="&lt;b&gt;Incoming&lt;/b&gt;&lt;br&gt;No es otro producto. Es una vista derivada de líneas pertenecientes a POs abiertos/borrador con cantidades pendientes de recibir." style="shape=note;whiteSpace=wrap;html=1;strokeColor=#64748b;fillColor=#fff7ed;fontColor=#7c2d12;fontSize=11;align=left;verticalAlign=top;spacing=8;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="2150" width="390" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
