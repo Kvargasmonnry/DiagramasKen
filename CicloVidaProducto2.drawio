@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="product-lifecycle-one-sheet" name="Ciclo completo - una hoja">
-    <mxGraphModel dx="937" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8700" pageHeight="2500" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1041" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8700" pageHeight="2500" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,10 +143,10 @@
           <mxGeometry height="105" width="260" x="1540" y="300" as="geometry" />
         </mxCell>
         <mxCell id="o4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;9. Estandarizar información&lt;/b&gt;&lt;br&gt;Preparar &lt;b&gt;D018 Standardized Product Info&lt;/b&gt; y limpiar códigos, descripciones y datos recibidos." vertex="1">
-          <mxGeometry height="110" width="280" x="1540" y="505" as="geometry" />
+          <mxGeometry height="110" width="280" x="1530" y="502.5" as="geometry" />
         </mxCell>
         <mxCell id="o5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;10. Crear PO en la app&lt;/b&gt;&lt;br&gt;Supplier · PO Number · Landed Base · fecha · notas.&lt;br&gt;Estado inicial: &lt;b&gt;draft&lt;/b&gt;." vertex="1">
-          <mxGeometry height="110" width="280" x="1850" y="505" as="geometry" />
+          <mxGeometry height="110" width="280" x="1850" y="502.5" as="geometry" />
         </mxCell>
         <mxCell id="o6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#16a34a;fillColor=#dcfce7;fontColor=#14532d;fontSize=12;align=center;verticalAlign=middle;spacing=7;arcSize=10;" value="&lt;b&gt;11. Ingresar líneas del PO&lt;/b&gt;&lt;br&gt;Manual · Excel · CSV · PDF/OCR · scraper por código del proveedor." vertex="1">
           <mxGeometry height="105" width="280" x="2160" y="505" as="geometry" />
@@ -170,7 +170,11 @@
           <mxGeometry height="105" width="280" x="2490" y="505" as="geometry" />
         </mxCell>
         <mxCell id="e7" edge="1" parent="1" source="o3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="g4" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="353" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e8" edge="1" parent="1" source="g4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.5;strokeColor=#4b5563;fontSize=11;labelBackgroundColor=#ffffff;" target="o4" value="">
           <mxGeometry relative="1" as="geometry" />
